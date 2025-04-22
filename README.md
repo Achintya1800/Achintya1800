@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Saket Lad</h1>
-<h3 align="center">I am passionate about Machine Learning and Data Science</h3>
+<h1 align="center">Hi 👋, I'm Achintya Chavan</h1>
+<h3 align="center">I am passionate about Machine Learning and Solving Real World Problems</h3>
 
-- 🔭 I’m currently working on *Detection of Age-Related Macular Degeneration using Deep Learning*
+- 🔭 I’m currently working on *Detection of Fake News using Deep Learning*
 
-- 🌱 I’m currently learning *Generative AI*
+- 🌱 I’m currently learning *Generative AI*  
 
 - 🌱 I’m improving *problem-solving skills at Leetcode*
 
-- 📫 How to reach me *saketlad5@gmail.com*
+- 📫 How to reach me *: achintya.chavan22@spit.ac.in*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/saket-lad-a3320222a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/saket-lad-a3320222a" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/achintya-chavan-372669228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/achintya-chavan-372669228" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
