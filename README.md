@@ -26,7 +26,7 @@
 
 <ul>
   <li>I am a Self-Taught Programmer</li>
-  <li>Check out my <a href="https://www.arya-nair.in/" target="_blank">Personal Website</a></li>
+  <li>Check out my <a href="https://" target="_blank">Personal Website</a></li>
   <li>I like to work on stuff that genuinely peaks my interest.</li>
   <li>Talk endlessly about stuff I find interesting</li>
   <li>Contact me if you have something interesting to say</li>
