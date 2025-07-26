@@ -1,5 +1,5 @@
 
-![image](https://claude.ai/public/artifacts/26e8aab7-1a35-44f4-a4de-fc113530e923)
+![image](./demo_image.jpg)
 
 
 
