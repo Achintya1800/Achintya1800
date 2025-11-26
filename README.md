@@ -27,7 +27,7 @@
 <ul>
   <li>I am a Self-Taught Programmer</li>
   <li>Check out my <a href="https://achintya-portfolio-nine.vercel.app/" target="_blank">Personal Website</a></li>
-  <li>I like to work on stuff that genuinely peaks my interest.</li>
+  <li>Building what matters.</li>
   <li>Talk endlessly about stuff I find interesting</li>
   <li>Contact me if you have something interesting to say</li>
  <li>I want to learn a lot of new things</li>
